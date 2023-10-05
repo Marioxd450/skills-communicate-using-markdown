@@ -7,6 +7,6 @@ var myVar = "¡Holandaaaaaaaa!";
 ```
 
 
-- [X] Iniciar el curso
-- [X] Voy en la mitad
+- [x] Iniciar el curso
+- [x] Voy en la mitad
 - [ ] Termine el curso
