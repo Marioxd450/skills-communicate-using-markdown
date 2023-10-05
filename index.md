@@ -5,3 +5,8 @@
 ```javascript
 var myVar = "¡Holandaaaaaaaa!";
 ```
+
+
+- [X] Iniciar el curso
+- [X] Voy en la mitad
+- [ ] Termine el curso
